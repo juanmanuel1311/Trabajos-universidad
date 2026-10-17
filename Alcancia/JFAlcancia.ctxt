@@ -1,0 +1,12 @@
+#BlueJ class context
+#Mon Oct 12 11:33:31 COT 2026
+comment0.target=JFAlcancia
+comment1.target=JFAlcancia()
+comment2.target=javax.swing.JPanel crearInterfaz()
+comment3.target=javax.swing.JPanel crearEncabezado()
+comment4.target=javax.swing.JPanel crearCentro()
+comment5.target=javax.swing.JPanel crearBotonesMonedas()
+comment6.target=javax.swing.JPanel crearPanelMonedas()
+comment7.target=javax.swing.JPanel crearBotonVaciar()
+comment8.target=void actualizarInterfaz()
+numComments=9

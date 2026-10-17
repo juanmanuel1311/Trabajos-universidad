@@ -1,0 +1,12 @@
+#BlueJ class context
+#Mon Oct 12 10:40:36 COT 2026
+comment0.target=Alcancia
+comment1.target=Alcancia()
+comment2.params=moneda
+comment2.target=void agregarMonedas(int)
+comment3.target=int getSaldo()
+comment4.target=int getTotalMonedas()
+comment5.params=moneda
+comment5.target=int getMonedas(int)
+comment6.target=void vaciar()
+numComments=7
