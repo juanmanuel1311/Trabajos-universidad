@@ -1,0 +1,17 @@
+#BlueJ class context
+#Tue Oct 13 19:30:32 COT 2026
+comment0.target=GestorRiesgos
+comment1.target=GestorRiesgos()
+comment2.params=riesgo
+comment2.target=void agregarRiesgo(Riesgo)
+comment3.params=codigo
+comment3.target=void eliminarRiesgo(int)
+comment4.params=codigo
+comment4.target=Riesgo obtenerRiesgo(int)
+comment5.target=java.util.ArrayList obtenerRiesgos()
+comment6.target=java.util.ArrayList getRiesgos()
+comment6.text=GET Method Propertie riesgos
+comment7.params=riesgos
+comment7.target=void setRiesgos(java.util.ArrayList)
+comment7.text=SET Method Propertie riesgos
+numComments=8
