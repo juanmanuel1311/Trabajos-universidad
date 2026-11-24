@@ -1,0 +1,16 @@
+#BlueJ class context
+#Tue Nov 24 18:08:08 COT 2026
+comment0.target=Voto
+comment1.params=ronda votante
+comment1.target=Voto(int, Cardenal)
+comment2.target=int getRonda()
+comment2.text=GET Method Propertie ronda
+comment3.params=ronda
+comment3.target=void setRonda(int)
+comment3.text=SET Method Propertie ronda
+comment4.target=Cardenal getVotante()
+comment4.text=GET Method Propertie votante
+comment5.params=votante
+comment5.target=void setVotante(Cardenal)
+comment5.text=SET Method Propertie votante
+numComments=6

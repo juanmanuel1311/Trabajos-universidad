@@ -1,0 +1,36 @@
+#BlueJ class context
+#Tue Nov 24 18:08:08 COT 2026
+comment0.target=Conclaves
+comment1.target=Conclaves()
+comment10.params=ronda candidato
+comment10.target=boolean votar(RondaVotacion, Cardenal)
+comment11.params=ronda candidato
+comment11.target=int contarVotos(RondaVotacion, Cardenal)
+comment12.params=ronda
+comment12.target=Cardenal obtenerPapa(RondaVotacion)
+comment13.params=ronda
+comment13.target=void aleatorizar(RondaVotacion)
+comment14.target=java.util.ArrayList getCardenales()
+comment14.text=GET Method Propertie cardenales
+comment15.params=cardenales
+comment15.target=void setCardenales(java.util.ArrayList)
+comment15.text=SET Method Propertie cardenales
+comment16.target=java.util.ArrayList getRondaVotacion()
+comment16.text=GET Method Propertie rondaVotacion
+comment17.params=rondaVotacion
+comment17.target=void setRondaVotacion(java.util.ArrayList)
+comment17.text=SET Method Propertie rondaVotacion
+comment2.params=cardenal
+comment2.target=void agregarCardenal(Cardenal)
+comment3.params=cardenal
+comment3.target=void removerCardenal(Cardenal)
+comment4.params=ronda
+comment4.target=void addRondaVotacion(RondaVotacion)
+comment5.params=ronda
+comment5.target=void removerRondaVotacion(RondaVotacion)
+comment6.target=java.util.ArrayList obtenerElectores()
+comment7.target=int votosNecesarios()
+comment8.target=RondaVotacion nuevaRonda()
+comment9.params=ronda
+comment9.target=boolean rondaCompleta(RondaVotacion)
+numComments=18

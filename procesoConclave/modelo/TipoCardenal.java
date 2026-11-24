@@ -1,0 +1,13 @@
+package modelo;
+
+
+/**
+ * Enumeration class Tipo - write a description of the enum class here
+ * 
+ * @author (your name here)
+ * @version (version number or date here)
+ */
+public enum TipoCardenal
+{
+    OBISPO, PRESBITERO, DIACONO
+}

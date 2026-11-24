@@ -1,0 +1,35 @@
+#BlueJ class context
+#Tue Nov 24 18:08:08 COT 2026
+comment0.target=Cardenal
+comment0.text=\r\n Write a description of class Cardenal here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.target=Cardenal()
+comment10.params=cedula
+comment10.target=void setCedula(java.lang.String)
+comment10.text=SET Method Propertie cedula
+comment11.target=java.lang.String getNombre()
+comment11.text=GET Method Propertie nombre
+comment12.params=nombre
+comment12.target=void setNombre(java.lang.String)
+comment12.text=SET Method Propertie nombre
+comment13.target=int getEdad()
+comment13.text=GET Method Propertie edad
+comment14.params=edad
+comment14.target=void setEdad(int)
+comment14.text=SET Method Propertie edad
+comment2.params=pais tipo cedula nombre edad
+comment2.target=Cardenal(java.lang.String, TipoCardenal, java.lang.String, java.lang.String, int)
+comment3.target=boolean esElegible()
+comment4.target=java.lang.String toString()
+comment5.target=java.lang.String getPaisRepresentado()
+comment5.text=GET Method Propertie paisRepresentado
+comment6.params=paisRepresentado
+comment6.target=void setPaisRepresentado(java.lang.String)
+comment6.text=SET Method Propertie paisRepresentado
+comment7.target=TipoCardenal getTipoCardenal()
+comment7.text=GET Method Propertie tipoCardenal
+comment8.params=tipoCardenal
+comment8.target=void setTipoCardenal(TipoCardenal)
+comment8.text=SET Method Propertie tipoCardenal
+comment9.target=java.lang.String getCedula()
+comment9.text=GET Method Propertie cedula
+numComments=15

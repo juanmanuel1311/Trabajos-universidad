@@ -1,0 +1,26 @@
+#BlueJ class context
+#Tue Nov 24 18:08:08 COT 2026
+comment0.target=RondaVotacion
+comment1.params=jornada numeroRonda diaRonda
+comment1.target=RondaVotacion(java.lang.String, int, int)
+comment2.target=java.lang.String getJornada()
+comment2.text=GET Method Propertie jornada
+comment3.params=jornada
+comment3.target=void setJornada(java.lang.String)
+comment3.text=SET Method Propertie jornada
+comment4.target=int getNumeroRonda()
+comment4.text=GET Method Propertie numeroRonda
+comment5.params=numeroRonda
+comment5.target=void setNumeroRonda(int)
+comment5.text=SET Method Propertie numeroRonda
+comment6.target=int getDiaRonda()
+comment6.text=GET Method Propertie diaRonda
+comment7.params=diaRonda
+comment7.target=void setDiaRonda(int)
+comment7.text=SET Method Propertie diaRonda
+comment8.target=java.util.ArrayList getVotos()
+comment8.text=GET Method Propertie votos
+comment9.params=votos
+comment9.target=void setVotos(java.util.ArrayList)
+comment9.text=SET Method Propertie votos
+numComments=10
