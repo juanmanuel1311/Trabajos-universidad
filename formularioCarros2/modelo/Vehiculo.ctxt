@@ -1,0 +1,12 @@
+#BlueJ class context
+#Tue Nov 24 17:39:34 COT 2026
+comment0.target=Vehiculo
+comment1.params=marca linea modelo valor
+comment1.target=Vehiculo(java.lang.String, java.lang.String, int, double)
+comment2.target=java.lang.String getMarca()
+comment3.target=java.lang.String getLinea()
+comment4.target=int getModelo()
+comment5.target=double getValor()
+comment6.params=pronto traslado servicio
+comment6.target=double calcularImpuesto(boolean, boolean, boolean)
+numComments=7

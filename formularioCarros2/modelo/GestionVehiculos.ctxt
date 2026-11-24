@@ -1,0 +1,16 @@
+#BlueJ class context
+#Tue Nov 24 17:36:07 COT 2026
+comment0.target=GestionVehiculos
+comment1.target=GestionVehiculos()
+comment2.target=int cantidad()
+comment3.params=posicion
+comment3.target=Vehiculo obtener(int)
+comment4.params=texto porMarca
+comment4.target=int buscar(java.lang.String, boolean)
+comment5.target=int masCaro()
+comment6.target=java.util.ArrayList getVehiculos()
+comment6.text=GET Method Propertie vehiculos
+comment7.params=vehiculos
+comment7.target=void setVehiculos(java.util.ArrayList)
+comment7.text=SET Method Propertie vehiculos
+numComments=8

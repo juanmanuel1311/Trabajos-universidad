@@ -1,0 +1,11 @@
+#BlueJ class context
+#Tue Nov 24 17:40:12 COT 2026
+comment0.target=Controlador
+comment1.params=vista modelo
+comment1.target=Controlador(vista.JFormulario, modelo.GestionVehiculos)
+comment2.target=void mostrar()
+comment3.params=texto marca
+comment3.target=void buscar(java.lang.String, boolean)
+comment4.params=e
+comment4.target=void actionPerformed(java.awt.event.ActionEvent)
+numComments=5
